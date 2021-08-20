@@ -1,0 +1,22 @@
+{
+  "name": "nist-control-manipulation",
+  "version": "1.0.0",
+  "description": "OSCAL is awesome but sometimes you need something right in the middle:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pete-usds/nist-control-manipulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pete-usds/nist-control-manipulation/issues"
+  },
+  "homepage": "https://github.com/pete-usds/nist-control-manipulation#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.6"
+  }
+}
