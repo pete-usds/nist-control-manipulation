@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-4
-# Audit Log Storage Capacity
+# AU-4 / Audit Log Storage Capacity
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

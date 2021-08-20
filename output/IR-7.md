@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-7
-# Incident Response Assistance
+# IR-7 / Incident Response Assistance
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

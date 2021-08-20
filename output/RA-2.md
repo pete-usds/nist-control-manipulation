@@ -1,5 +1,6 @@
-# RISK ASSESSMENT: RA-2
-# Security Categorization
+# RA-2 / Security Categorization
+
+_(RISK ASSESSMENT)_
 
 ## Control Text
 

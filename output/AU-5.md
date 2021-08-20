@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-5
-# Response to Audit Logging Process Failures
+# AU-5 / Response to Audit Logging Process Failures
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

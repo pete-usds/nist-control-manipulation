@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-9
-# External System Services
+# SA-9 / External System Services
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

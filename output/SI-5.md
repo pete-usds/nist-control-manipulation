@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-5
-# Security Alerts, Advisories, and Directives
+# SI-5 / Security Alerts, Advisories, and Directives
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

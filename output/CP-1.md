@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-1
-# Policy and Procedures
+# CP-1 / Policy and Procedures
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

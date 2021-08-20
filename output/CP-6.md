@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-6
-# Alternate Storage Site
+# CP-6 / Alternate Storage Site
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

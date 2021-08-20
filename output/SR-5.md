@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-5
-# Acquisition Strategies, Tools, and Methods
+# SR-5 / Acquisition Strategies, Tools, and Methods
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

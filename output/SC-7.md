@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-7
-# Boundary Protection
+# SC-7 / Boundary Protection
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

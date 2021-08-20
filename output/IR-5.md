@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-5
-# Incident Monitoring
+# IR-5 / Incident Monitoring
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

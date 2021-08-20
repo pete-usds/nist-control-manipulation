@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-8
-# Identification and Authentication (Non-organizational Users)
+# IA-8 / Identification and Authentication (Non-organizational Users)
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

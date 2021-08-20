@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-8
-# Personnel Sanctions
+# PS-8 / Personnel Sanctions
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

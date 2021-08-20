@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-2
-# Separation of System and User Functionality
+# SC-2 / Separation of System and User Functionality
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

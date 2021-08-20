@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-7
-# External Personnel Security
+# PS-7 / External Personnel Security
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

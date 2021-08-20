@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-8
-# Incident Response Plan
+# IR-8 / Incident Response Plan
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

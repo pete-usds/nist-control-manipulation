@@ -1,5 +1,6 @@
-# MAINTENANCE: MA-6
-# Timely Maintenance
+# MA-6 / Timely Maintenance
+
+_(MAINTENANCE)_
 
 ## Control Text
 

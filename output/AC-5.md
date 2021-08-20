@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-5
-# Separation of Duties
+# AC-5 / Separation of Duties
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

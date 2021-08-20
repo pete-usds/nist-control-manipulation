@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-1
-# Policy and Procedures
+# IR-1 / Policy and Procedures
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

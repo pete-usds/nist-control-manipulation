@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-1
-# Policy and Procedures
+# SR-1 / Policy and Procedures
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

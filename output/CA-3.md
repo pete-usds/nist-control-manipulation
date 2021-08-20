@@ -1,5 +1,6 @@
-# ASSESSMENT, AUTHORIZATION, AND MONITORING: CA-3
-# Information Exchange
+# CA-3 / Information Exchange
+
+_(ASSESSMENT, AUTHORIZATION, AND MONITORING)_
 
 ## Control Text
 

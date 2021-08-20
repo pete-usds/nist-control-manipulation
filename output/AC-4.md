@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-4
-# Information Flow Enforcement
+# AC-4 / Information Flow Enforcement
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# ASSESSMENT, AUTHORIZATION, AND MONITORING: CA-7
-# Continuous Monitoring
+# CA-7 / Continuous Monitoring
+
+_(ASSESSMENT, AUTHORIZATION, AND MONITORING)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-8
-# Security and Privacy Engineering Principles
+# SA-8 / Security and Privacy Engineering Principles
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

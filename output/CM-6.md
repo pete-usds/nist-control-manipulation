@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-6
-# Configuration Settings
+# CM-6 / Configuration Settings
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

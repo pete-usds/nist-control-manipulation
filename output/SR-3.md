@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-3
-# Supply Chain Controls and Processes
+# SR-3 / Supply Chain Controls and Processes
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

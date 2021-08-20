@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-4
-# Incident Handling
+# IR-4 / Incident Handling
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

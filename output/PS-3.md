@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-3
-# Personnel Screening
+# PS-3 / Personnel Screening
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

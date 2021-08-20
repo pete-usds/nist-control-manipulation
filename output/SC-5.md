@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-5
-# Denial-of-service Protection
+# SC-5 / Denial-of-service Protection
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

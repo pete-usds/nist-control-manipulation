@@ -1,5 +1,6 @@
-# PLANNING: PL-1
-# Policy and Procedures
+# PL-1 / Policy and Procedures
+
+_(PLANNING)_
 
 ## Control Text
 

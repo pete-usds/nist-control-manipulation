@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-1
-# Policy and Procedures
+# SA-1 / Policy and Procedures
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

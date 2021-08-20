@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-6
-# Authentication Feedback
+# IA-6 / Authentication Feedback
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

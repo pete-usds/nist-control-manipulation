@@ -1,5 +1,6 @@
-# ASSESSMENT, AUTHORIZATION, AND MONITORING: CA-2
-# Control Assessments
+# CA-2 / Control Assessments
+
+_(ASSESSMENT, AUTHORIZATION, AND MONITORING)_
 
 ## Control Text
 

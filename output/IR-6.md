@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-6
-# Incident Reporting
+# IR-6 / Incident Reporting
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

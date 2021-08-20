@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-6
-# Least Privilege
+# AC-6 / Least Privilege
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

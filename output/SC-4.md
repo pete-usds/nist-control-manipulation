@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-4
-# Information in Shared System Resources
+# SC-4 / Information in Shared System Resources
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

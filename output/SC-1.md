@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-1
-# Policy and Procedures
+# SC-1 / Policy and Procedures
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

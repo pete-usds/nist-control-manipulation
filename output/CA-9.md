@@ -1,5 +1,6 @@
-# ASSESSMENT, AUTHORIZATION, AND MONITORING: CA-9
-# Internal System Connections
+# CA-9 / Internal System Connections
+
+_(ASSESSMENT, AUTHORIZATION, AND MONITORING)_
 
 ## Control Text
 

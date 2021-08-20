@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-7
-# Audit Record Reduction and Report Generation
+# AU-7 / Audit Record Reduction and Report Generation
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

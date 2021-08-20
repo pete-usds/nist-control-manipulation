@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-3
-# Configuration Change Control
+# CM-3 / Configuration Change Control
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

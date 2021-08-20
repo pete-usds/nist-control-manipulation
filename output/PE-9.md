@@ -1,5 +1,6 @@
-# PHYSICAL AND ENVIRONMENTAL PROTECTION: PE-9
-# Power Equipment and Cabling
+# PE-9 / Power Equipment and Cabling
+
+_(PHYSICAL AND ENVIRONMENTAL PROTECTION)_
 
 ## Control Text
 

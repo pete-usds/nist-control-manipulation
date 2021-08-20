@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-5
-# Access Restrictions for Change
+# CM-5 / Access Restrictions for Change
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-3
-# Media Marking
+# MP-3 / Media Marking
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

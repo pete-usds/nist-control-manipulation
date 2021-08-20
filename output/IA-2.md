@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-2
-# Identification and Authentication (Organizational Users)
+# IA-2 / Identification and Authentication (Organizational Users)
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

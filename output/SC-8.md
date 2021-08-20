@@ -1,5 +1,6 @@
-# SYSTEM AND COMMUNICATIONS PROTECTION: SC-8
-# Transmission Confidentiality and Integrity
+# SC-8 / Transmission Confidentiality and Integrity
+
+_(SYSTEM AND COMMUNICATIONS PROTECTION)_
 
 ## Control Text
 

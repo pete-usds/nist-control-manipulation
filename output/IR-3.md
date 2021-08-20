@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-3
-# Incident Response Testing
+# IR-3 / Incident Response Testing
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

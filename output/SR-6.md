@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-6
-# Supplier Assessments and Reviews
+# SR-6 / Supplier Assessments and Reviews
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

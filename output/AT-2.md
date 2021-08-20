@@ -1,5 +1,6 @@
-# AWARENESS AND TRAINING: AT-2
-# Literacy Training and Awareness
+# AT-2 / Literacy Training and Awareness
+
+_(AWARENESS AND TRAINING)_
 
 ## Control Text
 

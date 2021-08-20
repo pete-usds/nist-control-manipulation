@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-3
-# Contingency Training
+# CP-3 / Contingency Training
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

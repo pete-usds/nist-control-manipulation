@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-3
-# Content of Audit Records
+# AU-3 / Content of Audit Records
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

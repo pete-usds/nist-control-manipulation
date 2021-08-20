@@ -1,5 +1,6 @@
-# AWARENESS AND TRAINING: AT-1
-# Policy and Procedures
+# AT-1 / Policy and Procedures
+
+_(AWARENESS AND TRAINING)_
 
 ## Control Text
 

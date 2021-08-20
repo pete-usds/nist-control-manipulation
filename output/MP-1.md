@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-1
-# Policy and Procedures
+# MP-1 / Policy and Procedures
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

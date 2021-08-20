@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-7
-# Alternate Processing Site
+# CP-7 / Alternate Processing Site
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-4
-# Contingency Plan Testing
+# CP-4 / Contingency Plan Testing
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

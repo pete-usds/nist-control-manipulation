@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-8
-# System Component Inventory
+# CM-8 / System Component Inventory
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

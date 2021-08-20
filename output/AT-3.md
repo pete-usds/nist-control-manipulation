@@ -1,5 +1,6 @@
-# AWARENESS AND TRAINING: AT-3
-# Role-based Training
+# AT-3 / Role-based Training
+
+_(AWARENESS AND TRAINING)_
 
 ## Control Text
 

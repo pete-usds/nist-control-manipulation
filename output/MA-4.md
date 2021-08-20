@@ -1,5 +1,6 @@
-# MAINTENANCE: MA-4
-# Nonlocal Maintenance
+# MA-4 / Nonlocal Maintenance
+
+_(MAINTENANCE)_
 
 ## Control Text
 

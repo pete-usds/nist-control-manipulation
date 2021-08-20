@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-3
-# Malicious Code Protection
+# SI-3 / Malicious Code Protection
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

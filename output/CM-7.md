@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-7
-# Least Functionality
+# CM-7 / Least Functionality
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

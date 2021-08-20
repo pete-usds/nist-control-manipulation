@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-5
-# Media Transport
+# MP-5 / Media Transport
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

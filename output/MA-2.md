@@ -1,5 +1,6 @@
-# MAINTENANCE: MA-2
-# Controlled Maintenance
+# MA-2 / Controlled Maintenance
+
+_(MAINTENANCE)_
 
 ## Control Text
 

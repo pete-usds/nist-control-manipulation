@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-8
-# Spam Protection
+# SI-8 / Spam Protection
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

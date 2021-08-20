@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-6
-# Audit Record Review, Analysis, and Reporting
+# AU-6 / Audit Record Review, Analysis, and Reporting
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

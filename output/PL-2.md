@@ -1,5 +1,6 @@
-# PLANNING: PL-2
-# System Security and Privacy Plans
+# PL-2 / System Security and Privacy Plans
+
+_(PLANNING)_
 
 ## Control Text
 

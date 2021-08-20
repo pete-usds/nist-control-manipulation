@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-2
-# Flaw Remediation
+# SI-2 / Flaw Remediation
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

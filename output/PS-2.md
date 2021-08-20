@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-2
-# Position Risk Designation
+# PS-2 / Position Risk Designation
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

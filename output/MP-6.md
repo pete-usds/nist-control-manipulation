@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-6
-# Media Sanitization
+# MP-6 / Media Sanitization
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

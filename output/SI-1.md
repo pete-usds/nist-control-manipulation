@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-1
-# Policy and Procedures
+# SI-1 / Policy and Procedures
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

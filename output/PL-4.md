@@ -1,5 +1,6 @@
-# PLANNING: PL-4
-# Rules of Behavior
+# PL-4 / Rules of Behavior
+
+_(PLANNING)_
 
 ## Control Text
 

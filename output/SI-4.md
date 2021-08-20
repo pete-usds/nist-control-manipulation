@@ -1,5 +1,6 @@
-# SYSTEM AND INFORMATION INTEGRITY: SI-4
-# System Monitoring
+# SI-4 / System Monitoring
+
+_(SYSTEM AND INFORMATION INTEGRITY)_
 
 ## Control Text
 

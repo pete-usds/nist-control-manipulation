@@ -1,5 +1,6 @@
-# PHYSICAL AND ENVIRONMENTAL PROTECTION: PE-6
-# Monitoring Physical Access
+# PE-6 / Monitoring Physical Access
+
+_(PHYSICAL AND ENVIRONMENTAL PROTECTION)_
 
 ## Control Text
 

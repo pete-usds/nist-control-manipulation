@@ -1,5 +1,6 @@
-# PHYSICAL AND ENVIRONMENTAL PROTECTION: PE-3
-# Physical Access Control
+# PE-3 / Physical Access Control
+
+_(PHYSICAL AND ENVIRONMENTAL PROTECTION)_
 
 ## Control Text
 

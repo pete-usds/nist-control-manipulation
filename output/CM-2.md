@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-2
-# Baseline Configuration
+# CM-2 / Baseline Configuration
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

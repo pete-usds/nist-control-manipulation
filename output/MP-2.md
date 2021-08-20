@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-2
-# Media Access
+# MP-2 / Media Access
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

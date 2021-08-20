@@ -1,5 +1,6 @@
-# RISK ASSESSMENT: RA-5
-# Vulnerability Monitoring and Scanning
+# RA-5 / Vulnerability Monitoring and Scanning
+
+_(RISK ASSESSMENT)_
 
 ## Control Text
 

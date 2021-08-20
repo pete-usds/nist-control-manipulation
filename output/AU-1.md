@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-1
-# Policy and Procedures
+# AU-1 / Policy and Procedures
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

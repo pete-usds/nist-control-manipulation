@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-8
-# Time Stamps
+# AU-8 / Time Stamps
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

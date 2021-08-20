@@ -1,5 +1,6 @@
-# PHYSICAL AND ENVIRONMENTAL PROTECTION: PE-2
-# Physical Access Authorizations
+# PE-2 / Physical Access Authorizations
+
+_(PHYSICAL AND ENVIRONMENTAL PROTECTION)_
 
 ## Control Text
 

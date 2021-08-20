@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-6
-# Access Agreements
+# PS-6 / Access Agreements
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

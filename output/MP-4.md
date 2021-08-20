@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-4
-# Media Storage
+# MP-4 / Media Storage
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

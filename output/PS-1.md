@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-1
-# Policy and Procedures
+# PS-1 / Policy and Procedures
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

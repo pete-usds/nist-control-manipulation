@@ -1,5 +1,6 @@
-# MEDIA PROTECTION: MP-7
-# Media Use
+# MP-7 / Media Use
+
+_(MEDIA PROTECTION)_
 
 ## Control Text
 

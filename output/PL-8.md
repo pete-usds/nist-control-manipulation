@@ -1,5 +1,6 @@
-# PLANNING: PL-8
-# Security and Privacy Architectures
+# PL-8 / Security and Privacy Architectures
+
+_(PLANNING)_
 
 ## Control Text
 

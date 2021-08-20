@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-4
-# Acquisition Process
+# SA-4 / Acquisition Process
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

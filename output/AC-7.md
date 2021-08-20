@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-7
-# Unsuccessful Logon Attempts
+# AC-7 / Unsuccessful Logon Attempts
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

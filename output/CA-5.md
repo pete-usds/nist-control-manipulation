@@ -1,5 +1,6 @@
-# ASSESSMENT, AUTHORIZATION, AND MONITORING: CA-5
-# Plan of Action and Milestones
+# CA-5 / Plan of Action and Milestones
+
+_(ASSESSMENT, AUTHORIZATION, AND MONITORING)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# RISK ASSESSMENT: RA-3
-# Risk Assessment
+# RA-3 / Risk Assessment
+
+_(RISK ASSESSMENT)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-9
-# Position Descriptions
+# PS-9 / Position Descriptions
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

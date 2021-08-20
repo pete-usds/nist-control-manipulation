@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-8
-# Telecommunications Services
+# CP-8 / Telecommunications Services
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

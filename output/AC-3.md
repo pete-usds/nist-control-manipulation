@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-3
-# Access Enforcement
+# AC-3 / Access Enforcement
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

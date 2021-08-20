@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-1
-# Policy and Procedures
+# CM-1 / Policy and Procedures
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

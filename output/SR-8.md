@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-8
-# Notification Agreements
+# SR-8 / Notification Agreements
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

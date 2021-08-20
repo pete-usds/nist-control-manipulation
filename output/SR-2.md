@@ -1,5 +1,6 @@
-# SUPPLY CHAIN RISK MANAGEMENT: SR-2
-# Supply Chain Risk Management Plan
+# SR-2 / Supply Chain Risk Management Plan
+
+_(SUPPLY CHAIN RISK MANAGEMENT)_
 
 ## Control Text
 

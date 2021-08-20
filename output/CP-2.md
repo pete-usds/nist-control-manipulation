@@ -1,5 +1,6 @@
-# CONTINGENCY PLANNING: CP-2
-# Contingency Plan
+# CP-2 / Contingency Plan
+
+_(CONTINGENCY PLANNING)_
 
 ## Control Text
 

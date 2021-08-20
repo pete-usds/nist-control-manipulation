@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-5
-# System Documentation
+# SA-5 / System Documentation
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

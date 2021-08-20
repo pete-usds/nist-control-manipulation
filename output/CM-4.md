@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-4
-# Impact Analyses
+# CM-4 / Impact Analyses
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

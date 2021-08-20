@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-5
-# Authenticator Management
+# IA-5 / Authenticator Management
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

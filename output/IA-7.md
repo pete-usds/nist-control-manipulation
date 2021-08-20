@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-7
-# Cryptographic Module Authentication
+# IA-7 / Cryptographic Module Authentication
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-9
-# Protection of Audit Information
+# AU-9 / Protection of Audit Information
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

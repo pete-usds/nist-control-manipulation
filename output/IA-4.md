@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-4
-# Identifier Management
+# IA-4 / Identifier Management
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

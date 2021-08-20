@@ -1,5 +1,6 @@
-# AWARENESS AND TRAINING: AT-4
-# Training Records
+# AT-4 / Training Records
+
+_(AWARENESS AND TRAINING)_
 
 ## Control Text
 

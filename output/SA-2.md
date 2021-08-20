@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-2
-# Allocation of Resources
+# SA-2 / Allocation of Resources
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

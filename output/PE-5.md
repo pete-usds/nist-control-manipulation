@@ -1,5 +1,6 @@
-# PHYSICAL AND ENVIRONMENTAL PROTECTION: PE-5
-# Access Control for Output Devices
+# PE-5 / Access Control for Output Devices
+
+_(PHYSICAL AND ENVIRONMENTAL PROTECTION)_
 
 ## Control Text
 

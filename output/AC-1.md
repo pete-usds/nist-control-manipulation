@@ -1,5 +1,6 @@
-# ACCESS CONTROL: AC-1
-# Policy and Procedures
+# AC-1 / Policy and Procedures
+
+_(ACCESS CONTROL)_
 
 ## Control Text
 

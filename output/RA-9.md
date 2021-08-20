@@ -1,5 +1,6 @@
-# RISK ASSESSMENT: RA-9
-# Criticality Analysis
+# RA-9 / Criticality Analysis
+
+_(RISK ASSESSMENT)_
 
 ## Control Text
 

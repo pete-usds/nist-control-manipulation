@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-4
-# Personnel Termination
+# PS-4 / Personnel Termination
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

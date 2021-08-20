@@ -1,5 +1,6 @@
-# CONFIGURATION MANAGEMENT: CM-9
-# Configuration Management Plan
+# CM-9 / Configuration Management Plan
+
+_(CONFIGURATION MANAGEMENT)_
 
 ## Control Text
 

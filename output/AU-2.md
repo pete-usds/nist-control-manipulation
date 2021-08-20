@@ -1,5 +1,6 @@
-# AUDIT AND ACCOUNTABILITY: AU-2
-# Event Logging
+# AU-2 / Event Logging
+
+_(AUDIT AND ACCOUNTABILITY)_
 
 ## Control Text
 

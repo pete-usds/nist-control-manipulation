@@ -1,5 +1,6 @@
-# INCIDENT RESPONSE: IR-2
-# Incident Response Training
+# IR-2 / Incident Response Training
+
+_(INCIDENT RESPONSE)_
 
 ## Control Text
 

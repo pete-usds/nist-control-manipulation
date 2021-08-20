@@ -1,5 +1,6 @@
-# PERSONNEL SECURITY: PS-5
-# Personnel Transfer
+# PS-5 / Personnel Transfer
+
+_(PERSONNEL SECURITY)_
 
 ## Control Text
 

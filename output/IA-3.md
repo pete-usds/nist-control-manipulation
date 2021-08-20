@@ -1,5 +1,6 @@
-# IDENTIFICATIONS AND AUTHENTICATION: IA-3
-# Device Identification and Authentication
+# IA-3 / Device Identification and Authentication
+
+_(IDENTIFICATIONS AND AUTHENTICATION)_
 
 ## Control Text
 

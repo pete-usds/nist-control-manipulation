@@ -1,5 +1,6 @@
-# SYSTEM AND SERVICES ACQUISITION: SA-3
-# System Development Life Cycle
+# SA-3 / System Development Life Cycle
+
+_(SYSTEM AND SERVICES ACQUISITION)_
 
 ## Control Text
 

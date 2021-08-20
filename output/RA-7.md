@@ -1,5 +1,6 @@
-# RISK ASSESSMENT: RA-7
-# Risk Response
+# RA-7 / Risk Response
+
+_(RISK ASSESSMENT)_
 
 ## Control Text
 
