@@ -1,7 +1,7 @@
 # List of Tailored Controls 
 
-| ID | Family | Name | Notes |
-| -- | ------ | ---- | ----- |
+| ID | Family | Name | Sub | Notes |
+| -- | ------ | ---- | --- | ----- |
 |[AC-1](AC-1.md)|ACCESS CONTROL|Policy and Procedures||
 |[AC-2](AC-2.md)|ACCESS CONTROL|Account Management||
 |[AC-2(1)](AC-2(1).md)|ACCESS CONTROL|Account Management | Automated System Account Management||
